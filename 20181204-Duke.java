@@ -18,6 +18,7 @@ hint.substring(i,i+1)="-";
 if(puzzle.substring(i,i+1).compareto(hint.compareTo(puzzle)!=-1){
 hint.substring(i,i+1)="+";
 }
+   }
 return c;
 
 
